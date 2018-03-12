@@ -15,9 +15,9 @@ var Taqsim = &Family{
 		&Step{Name: "Turkish Walk", MinCounts: 4},
 		&Step{Name: "Turkish Backwalk", MinCounts: 4},
 		&Step{Name: "Pyramid Step / Suzi Q", MinCounts: 4},
-		&Step{Name: "Goosh Step", MinCounts: 2},
+		&Step{Name: "Goosh Step", MinCounts: 4},
 		&Step{Name: "Goosh Spin", MinCounts: 4},
 		&Step{Name: "F8 Backwalk", MinCounts: 4},
-		&Step{Name: "Rib Figure Eights & Chest Locks", MinCounts: 2},
+		&Step{Name: "Rib Figure Eights & Chest Locks", MinCounts: 4},
 	},
 }
