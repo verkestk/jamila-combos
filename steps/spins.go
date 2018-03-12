@@ -11,7 +11,7 @@ var Spins = &Family{
 	JL2Steps: []*Step{
 		&Step{Name: "Diagonal 2/4 Spin", MinCounts: 2},
 		&Step{Name: "Centrifugal Spin", MinCounts: 2},
-		&Step{Name: "Out-Up-Out-Down Spin", MinCounts: 2},
+		&Step{Name: "Out-Up-Out-Down Spin", MinCounts: 4},
 		&Step{Name: "In-Out Spin", MinCounts: 2},
 	},
 }
